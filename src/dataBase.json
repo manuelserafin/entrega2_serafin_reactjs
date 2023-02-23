@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Café de Brasil",
+    "price": 30,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 125grs",
+    "category": "cafe-125-grs",
+    "image": "https://i.postimg.cc/sQGrkf4W/125-brasil.webp",
+    "stock": 5,
+    "link": "category/cafe-125-grs"
+  },
+  {
+    "id": 2,
+    "title": "Café de Colombia",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 125grs",
+    "category": "cafe-125-grs",
+    "image": "https://i.postimg.cc/2LpDrp0K/125-colombia.webp",
+    "stock": 2,
+    "link": "category/cafe-125-grs"
+  },
+  {
+    "id": 4,
+    "title": "Café de Etiopia",
+    "price": 30,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 125grs",
+    "category": "cafe-125-grs",
+    "image": "https://i.postimg.cc/XBw0v2h7/125-etiopia.webp",
+    "stock": 10,
+    "link": "category/cafe-125-grs"
+  },
+  {
+    "id": 5,
+    "title": "Café de Guatemala",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 125grs",
+    "category": "cafe-125-grs",
+    "image": "https://i.postimg.cc/F1cvGRR5/125-guatemala.webp",
+    "stock": 1,
+    "link": "category/cafe-125-grs"
+  },
+  {
+    "id": 6,
+    "title": "Café de Brasil",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 250grs",
+    "category": "cafe-250-grs",
+    "image": "https://i.postimg.cc/t1ZRjzX7/250-brasil.jpg",
+    "stock": 1,
+    "link": "category/cafe-250-grs"
+  },
+  {
+    "id": 7,
+    "title": "Café de Colombia",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 250grs",
+    "category": "cafe-250-grs",
+    "image": "https://i.postimg.cc/HjCM6r2b/250-colombia.jpg",
+    "stock": 1,
+    "link": "category/cafe-250-grs"
+  },
+  {
+    "id": 8,
+    "title": "Café de Etiopia",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 250grs",
+    "category": "cafe-250-grs",
+    "image": "https://i.postimg.cc/YGQp4qLH/250-etio-jpg.jpg",
+    "stock": 1,
+    "link": "category/cafe-250-grs"
+  },
+  {
+    "id": 9,
+    "title": "Café de Guatemala",
+    "price": 20,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+    "viewcategory": "Cafés de 250grs",
+    "category": "cafe-250-grs",
+    "image": "https://i.postimg.cc/ctZdfyf8/250-guate.jpg",
+    "stock": 1,
+    "link": "category/cafe-250-grs"
+  }
+]
